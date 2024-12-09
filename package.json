@@ -1,0 +1,16 @@
+{
+  "name": "computer-graphics-b-hackathon-hackathon",
+  "version": "1.0.0",
+  "description": "**Objective:**   This project demonstrates custom vertex and fragment shaders using Three.js in a GitHub Codespace environment. The goal is to gain practical experience in shader-based materials, lighting, and object manipulation, culminating in an interactive 3D scene rendered in the browser.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/three": "^0.170.0",
+    "three": "^0.171.0"
+  }
+}
